@@ -1,0 +1,47 @@
+
+
+  .footerTitle{
+    padding-left : 1rem;
+  }
+  .footerValue{
+    float : right;
+    padding-right: 1rem;
+  }
+  .footer{
+    border : 1px solid black;
+    border-radius : 0.2em;
+  }
+
+  .header {
+  background: #999999;
+  font-size: 16px;
+  height: 30px;
+  padding: 10px;
+  text-align: center;
+}
+
+
+  /* .footerValue {
+    float: right;
+    padding-right: 1rem;
+  } */
+
+  /* .footer {
+    border: 1px solid grey;
+    border-radius: 0.2rem;
+    margin: none;
+  }
+   */
+
+  /* .footer{
+    border: 1px solid grey;
+    border-radius: 0.1em;
+    margin: none;
+  } */
+
+  /* .footer{
+    border: 1px solid black;
+    border-radius: 0.1rem;
+    margin: none;
+    padding : 2px;
+  } */
